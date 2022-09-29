@@ -1,0 +1,38 @@
+body {
+  background-color: #fec8d8;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h1 {
+  color: #957dad;
+}
+.sausage-creole {
+  background-color: #fe6862;
+}
+.sausage-title {
+  color: #fca5af;
+}
+.photos {
+  height: 200px;
+  width: 200px;
+}
+.sausage-recipe {
+  color: beige;
+}
+.taco-soup {
+  background-color: #a6eca8;
+}
+.taco-title {
+  color: #d2fdbb;
+}
+.taco-recipe {
+  color: beige;
+}
+.spaghetti {
+  background-color: #ffa071;
+}
+.spaghetti-title {
+  color: #fdf1ad;
+}
+.spaghetti-recipe {
+  color: beige;
+}
